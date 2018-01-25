@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Keindahan Menara Pisa
 
-You can use the [editor on GitHub](https://github.com/apriella/Hai-Semua/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Menara Miring Pisa (Bahasa Italia: Torre pendente di Pisa atau disingkat Torre di Pisa), atau lebih dikenal dengan Menara Pisa, adalah sebuah campanile atau menara lonceng katedral di kota Pisa, Italia.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Menara Pisa sebenarnya dibuat agar berdiri secara vertikal seperti menara lonceng pada umumnya, namun mulai miring tak lama setelah pembangunannya dimulai pada Agustus 1173. Ia terletak di belakang katedral dan merupakan bangunan ketiga Campo dei Miracoli (lapangan pelangi) kota Pisa.
 
-### Markdown
+Ketinggian menara ini adalah 55,86 m dari permukaan tanah terendah dan 56,70 m dari permukaan tanah tertinggi. Kelebaran dinding di bawahnya mencapai 4,09 m dan di puncak 2,48 m. Bobotnya diperkirakan mencapai 14.500 ton.[1] Menara Pisa memiliki 294 anak tangga. Dengan adanya menara ini, sektor pendapatan ekonomi jadi bertambah karena adanya objek wisata.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Menara Pisa juga diterima sebagai salah satu Situs Warisan Dunia UNESCO.
 
-```markdown
-Syntax highlighted code block
+### Sejarah Dibangunnya Menara Pisa
 
-# Header 1
-## Header 2
-### Header 3
+Pembangunan Menara Pisa dilakukan dalam tiga tahap dalam jangka waktu 200 tahun. Pembangunan lantai pertama dari campanile yang berbatu marmer putih dimulai pada 9 Agustus 1173, yang merupakan era kesejahteraan dan kejayaan militer. Lantai pertama ini dikelilingi oleh pilar dengan huruf klasik, yang mengarah miring terhadap lengkungan kerai. Sebenarnya, Menara Miring tersebut seharusnya berdiri tegak setinggi 55 meter, namun dikarenakan Menara Miring Pisa dibangun di atas tanah yang tidak stabil, Menara tersebut akhirnya miring dari garis lurus sepanjang 5 meter.
 
-- Bulleted
-- List
+Ada kontroversi mengenai identitas dari arsitek Menara Miring Pisa. Selama beberapa tahun lamanya desainer dipredikatkan kepada seorang seniman lokal terkemuka abad ke-12 di Pisa, yang populer oleh cetakan perunggunya, khususnya di dalam Pisa Duomo. Bonanno Pisano meninggalkan Pisa pada 1185 menuju ke Monreale, Sisilia, hanya untuk pulang kampung dan meninggal di kampung halamannya. Sarkofagus nya ditemukan di dasar menara pada tahun 1820.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Contact Person
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/apriella/Hai-Semua/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Article Based On id.Wikipedia.Org
